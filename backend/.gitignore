@@ -1,0 +1,5 @@
+.env
+/__pycache__
+/Controllers/__pycache__
+/Middleware/__pycache__
+/Models/__pycache__
